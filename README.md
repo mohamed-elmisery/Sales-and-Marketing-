@@ -45,7 +45,7 @@ It provides a comprehensive view of call activities, agent performance, and sale
 ---
 
 ## **Dashboard Preview**
-![Dashboard Screenshot](Screenshot.png)
+![Dashboard Screenshot](Screenshot%202025-08-25%20074826.png)
 
 ---
 
